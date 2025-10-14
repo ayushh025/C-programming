@@ -44,7 +44,7 @@ int main(){
 				deleteStudent(studentRoll, studentName, studentPer);
 				break;
 			case 6:
-				return;
+				return 0;
 		}	
 	}
 	return 0;
