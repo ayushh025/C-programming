@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <ctype.h>  // For tolower function
+#include <ctype.h>
 
 int main() {
     char str[100], ch;
